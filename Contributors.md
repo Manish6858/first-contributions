@@ -9742,3 +9742,4 @@ quattad
 - [Yatharth Maheshwari](https://github.com/yatharthmahesh)
 - [Animesh Shukla](https://github.com/anime19)
 - [Navneeth Babra](https://github.com/nbabra)
+- [Manish Pal](https://github.com/Manish6858)
